@@ -1,4 +1,4 @@
-# 🍽️ Bistrô Essência – Página Web
+# 🍽️ Bistrô Essência
 
 Este projeto é a **página web do restaurante Bistrô Essência**, desenvolvido na **UC de UI/UX** do curso **PROPROFFISÃO** do **Instituto PROA**.
 
