@@ -12,7 +12,7 @@ A página apresenta o restaurante e o design foca na experiência do usuário e 
 ## 🎯 Objetivo
 Praticar conceitos de **UI/UX**, criando uma interface **clara e organizada**.
 
-- ## 👀 Como Visualizar
+## 👀 Como Visualizar
 1. Clone o repositório ou baixe os arquivos.  
 2. Acesse diretamente pelo link em qualquer navegador:
 
